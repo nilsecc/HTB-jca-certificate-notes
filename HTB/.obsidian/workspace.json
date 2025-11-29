@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea200053ae400d98",
+        "id": "4543c27bf959f759",
         "type": "tabs",
         "children": [
           {
-            "id": "63078b07de9d7ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a34a17eb1b662898",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "109ba68bef39ce7c",
+            "id": "f0fb64c36256e30a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -94,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "43423b243cc6db98",
@@ -166,16 +147,27 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "94e045c837942777",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63078b07de9d7ef3",
+  "active": "f0fb64c36256e30a",
   "lastOpenFiles": [
     "Welcome.md"
   ]
