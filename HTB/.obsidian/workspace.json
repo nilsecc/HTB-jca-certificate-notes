@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Principles of Information Security"
             }
+          },
+          {
+            "id": "3d56f8b77cc24d49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fb5cf4f1b369355",
+  "active": "3d56f8b77cc24d49",
   "lastOpenFiles": [
     "Junior Cybersecurity Analyst/Introduction to Information Security/Structure of InfoSec.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Principles of Information Security.md",
