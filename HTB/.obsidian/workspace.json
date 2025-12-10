@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e5dc6d0e30e7337",
+        "id": "e77832185e87198c",
         "type": "tabs",
         "children": [
           {
-            "id": "8fb5cf4f1b369355",
+            "id": "8f998ec62862901e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20251210141546.png"
+                "file": "Junior Cybersecurity Analyst/Introduction to Information Security/Network/Networking tools.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251210141546"
+              "icon": "lucide-file",
+              "title": "Networking tools"
             }
           }
         ]
@@ -178,13 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca5dc8d18ec2004e",
+  "active": "8f998ec62862901e",
   "lastOpenFiles": [
+    "images/Pasted image 20251210141546.png",
+    "conflict-files-obsidian-git.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Network/Networking tools.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Network",
     "Junior Cybersecurity Analyst/Network/Networking structure.md",
     "images/Pasted image 20251210142025.png",
     "images/Pasted image 20251210141859.png",
     "images/Pasted image 20251210141655.png",
-    "images/Pasted image 20251210141546.png",
     "images/Pasted image 20251210141006.png",
     "images/Pasted image 20251210140759.png",
     "images/Pasted image 20251210140542.png",
