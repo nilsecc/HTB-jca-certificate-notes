@@ -11,14 +11,12 @@
             "id": "8fb5cf4f1b369355",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20251210141546.png"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251210141546"
             }
           }
         ]
@@ -180,19 +178,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fb5cf4f1b369355",
+  "active": "ca5dc8d18ec2004e",
   "lastOpenFiles": [
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Cloud Security.md",
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Untitled.md",
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Application Security.md",
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction/Principles of Information Security.md",
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Disaster Recovery and Business Continuity.md",
+    "Junior Cybersecurity Analyst/Network/Networking structure.md",
+    "images/Pasted image 20251210142025.png",
+    "images/Pasted image 20251210141859.png",
+    "images/Pasted image 20251210141655.png",
+    "images/Pasted image 20251210141546.png",
+    "images/Pasted image 20251210141006.png",
+    "images/Pasted image 20251210140759.png",
+    "images/Pasted image 20251210140542.png",
+    "images/Pasted image 20251210140503.png",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Threats.md",
+    "Junior Cybersecurity Analyst/Network",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Physical Security.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Operational Security.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Network Security.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Mobile Security.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/IOT security.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Disaster Recovery and Business Continuity.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Cloud Security.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Application Security.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Threats",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction/Principles of Information Security.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction/Structure of InfoSec.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction",
-    "Junior Cybersecurity Analyst/Untitled",
     "images/Pasted image 20251130134545.png",
     "images",
     "Pasted image 20251130134545.png",
