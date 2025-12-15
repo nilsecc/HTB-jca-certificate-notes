@@ -23,12 +23,14 @@
             "id": "820e55fd93739629",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20251210210340.png"
+                "file": "Junior Cybersecurity Analyst/Network/Protocols & Terminology.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251210210340"
+              "icon": "lucide-file",
+              "title": "Protocols & Terminology"
             }
           }
         ],
@@ -191,17 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca5dc8d18ec2004e",
+  "active": "820e55fd93739629",
   "lastOpenFiles": [
+    "Junior Cybersecurity Analyst/Network/Networking workflow.md",
+    "Junior Cybersecurity Analyst/Network/Networking tools.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Threats.md",
+    "images/Pasted image 20251210210340.png",
     "images/Pasted image 20251210212252.png",
     "Junior Cybersecurity Analyst/Network/Protocols & Terminology.md",
     "Junior Cybersecurity Analyst/Network/Adressing.md",
-    "Junior Cybersecurity Analyst/Network/Networking workflow.md",
     "Junior Cybersecurity Analyst/Network/Proxies.md",
-    "Junior Cybersecurity Analyst/Network/Networking tools.md",
     "Junior Cybersecurity Analyst/Network/Networking structure.md",
-    "images/Pasted image 20251210210340.png",
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Threats.md",
     "images/Pasted image 20251210141546.png",
     "conflict-files-obsidian-git.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Network",
