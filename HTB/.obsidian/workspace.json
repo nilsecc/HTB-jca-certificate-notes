@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ce17da384a1928",
+        "id": "0d25e3ecb07e1a33",
         "type": "tabs",
         "children": [
           {
-            "id": "32a6e5e25fc4bb34",
+            "id": "48a592198e9d4cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,12 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32a6e5e25fc4bb34",
+  "active": "48a592198e9d4cfc",
   "lastOpenFiles": [
-    "Junior Cybersecurity Analyst/Network/Vendor Specific Information.md",
+    "images/Pasted image 20251222202033.png",
     "Instalacion Arch/Como va Linux.md",
-    "Pasted image 20251222202033.png",
-    "Pasted image 20251222201150.png",
+    "Junior Cybersecurity Analyst/Network/Vendor Specific Information.md",
+    "images/Pasted image 20251222201150.png",
     "Junior Cybersecurity Analyst/Network/Wireless networks.md",
     "Instalacion Arch/PACMAN.md",
     "Instalacion Arch/2.1 Post Instalación.md",
@@ -221,7 +221,6 @@
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Cloud Security.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Application Security.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Threats",
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction/Principles of Information Security.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction",
     "images",
