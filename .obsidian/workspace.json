@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "d47081fec0e4e3c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "53d4bdeca860e1ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b559b09e2a8e417",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20260128125753.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260128125753"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d414e180d60d5630",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc07018531915854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "571038f126d559dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4e9eddadd11eed5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d16ccb60ceeab41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c529bba9c8902982",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8543829f1f50d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ceb2b235440734",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Junior Cybersecurity Analyst/Network/Vendor Specific Information.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vendor Specific Information"
+            }
+          },
+          {
+            "id": "98dac084a30f4047",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Junior Cybersecurity Analyst/Network/Vendor Specific Information.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vendor Specific Information"
+            }
+          },
+          {
+            "id": "694b1eeca33d0dd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "77f6b4204ee89098",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0e4d66dbcf55554c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Junior Cybersecurity Analyst/Network/Vendor Specific Information.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vendor Specific Information"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6b559b09e2a8e417",
+  "lastOpenFiles": [
+    "Junior Cybersecurity Analyst/Network/Connection Establishment.md",
+    "images/Pasted image 20260128133224.png",
+    "images/Pasted image 20260128125753.png",
+    "images/Pasted image 20260128123426.png",
+    "images/Pasted image 20260128125300.png",
+    "images/Pasted image 20260128125016.png",
+    "Junior Cybersecurity Analyst/Network/Vendor Specific Information.md",
+    "Junior Cybersecurity Analyst/Network/Connection Establishment",
+    "Junior Cybersecurity Analyst/Network/Protocols & Terminology",
+    "Junior Cybersecurity Analyst/Network/Adressing",
+    "Junior Cybersecurity Analyst/Network/Models",
+    "Junior Cybersecurity Analyst/Network/Structure",
+    "Instalacion Arch/PACMAN.md",
+    "Instalacion Arch/Como va Linux.md",
+    "Instalacion Arch/2.1 Post Instalación.md",
+    "Instalacion Arch/1.3 Instalación Arch.md",
+    "Instalacion Arch/1.2 USB Booteable de Arch.md",
+    "Instalacion Arch/1.1 Configurar la partición.md"
+  ]
+}
