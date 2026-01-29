@@ -92,3 +92,138 @@ Alternative shells include Tcsh/Csh, Ksh, Zsh, and Fish, each with different fea
 
 ![[Pasted image 20260128175448.png]]
 
+## Bash (type of shell)
+
+**Bash Prompt**  
+The Bash prompt is a line of text showing system readiness. By default, it displays **username**, **hostname**, and **current directory**, with a cursor waiting for commands.
+
+**Default Symbols**
+
+- `$` → regular user
+- `#` → root user
+- `~` → home directory
+
+**PS1 Variable**  
+Controls how the prompt looks. Can be customized to show:
+
+- Username, hostname, current directory
+- Colors, special characters
+- Date, time, IP address, last command status
+
+**Example Custom Prompt**
+
+`<username>@<hostname>[<current directory>]$ root@htb[/htb]#`
+
+**Useful Special Characters for PS1**
+
+- `\u` → username
+- `\h` → hostname
+- `\w` → full path of current directory
+- `\d` → date (Mon Feb 6)
+- `\D{%Y-%m-%d}` → date (YYYY-MM-DD)
+- `\t` → time 24-hour (HH:MM:SS)
+- `\T` → time 12-hour
+- `\@` → time with AM/PM
+- `\j` → number of jobs in shell
+- `\n` → newline
+- `\r` → carriage return
+- `\s` → shell name
+
+**Customization Benefits**
+
+- Improves workflow and efficiency
+- Helps track commands in penetration testing
+- Makes terminal visually appealing
+- Tools like **bash-prompt-generator** or **Powerline** can help adapt the prompt
+
+
+# Commands
+
+## Help Commands
+
+**Getting Help**  
+In Linux, it’s essential to know how to get help for commands and tools you don’t know. The main methods are **man pages**, **help flags**, and **search tools**.
+
+**ls Command Example**  
+`ls` lists files and directories in the current folder.
+
+- `ls --help` → shows short help with options
+- `man ls` → shows full manual with syntax, description, and options
+
+**Symbols in Prompts**
+
+- `$` → regular user prompt
+- `#` → root prompt
+
+**Man Pages (`man <tool>`)**
+
+- Displays detailed documentation for a command
+- Shows syntax, description, options, and examples
+
+**Help Option (`--help` or `-h`)**
+
+- Quick reference for command options
+- Most commands support `--help` (some support `-h`)
+
+**Apropos Tool (`apropos <keyword>`)**
+
+- Searches man pages for a keyword
+- Returns commands and a short description  
+    Example: `apropos sudo` lists sudo-related commands
+
+**Explainshell**
+
+- Website: [explainshell.com](https://explainshell.com/)
+- Breaks down complex commands and explains each part
+
+**Tip**  
+Always explore commands, check man pages, and experiment. It saves time later and helps understand new tools efficiently.
+
+## System info
+
+**Common System Commands**
+
+- `whoami` → shows current username.
+- `id` → shows user ID, group ID, and group memberships.
+- `hostname` → prints or sets the system hostname.
+- `uname` → prints system info; `uname -a` shows all details (kernel, hostname, release, version, hardware, OS).
+- `pwd` → prints current working directory.
+- `ifconfig` → shows/configures network interfaces.
+- `ip` → show/manipulate network interfaces and routing.
+- `netstat` → shows network status.
+- `ss` → investigate sockets.
+- `ps` → shows running processes.
+- `who` → shows logged-in users.
+- `env` → prints or sets environment variables.
+- `lsblk` → lists block devices.
+- `lsusb` → lists USB devices.
+- `lsof` → lists open files.
+- `lspci` → lists PCI devices.
+
+**SSH**
+
+- `ssh user@[IP]` → securely access a remote machine via command line.
+- SSH is lightweight, GUI-free, and efficient for remote administration.
+
+**Hostname**
+
+- `hostname` → prints the name of the machine.
+
+**Whoami**
+
+- `whoami` → prints the current logged-in user.
+
+**Id**
+
+- `id` → shows user ID, group ID, and groups.
+- Membership in groups like `sudo`, `adm` can indicate potential privileges.
+
+**Uname**
+
+- `uname -a` → shows kernel, hostname, release, version, hardware, and OS.
+- Individual flags:
+    - `-r` → kernel release (useful for checking exploits).
+    - `-s` → kernel name
+    - `-n` → hostname
+    - `-v` → kernel version
+    - `-m` → machine hardware
