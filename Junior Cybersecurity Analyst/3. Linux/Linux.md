@@ -137,9 +137,8 @@ Controls how the prompt looks. Can be customized to show:
 - Tools like **bash-prompt-generator** or **Powerline** can help adapt the prompt
 
 
-# Commands
 
-## Help Commands
+# Help Commands
 
 **Getting Help**  
 In Linux, it’s essential to know how to get help for commands and tools you don’t know. The main methods are **man pages**, **help flags**, and **search tools**.
@@ -179,7 +178,7 @@ In Linux, it’s essential to know how to get help for commands and tools you do
 **Tip**  
 Always explore commands, check man pages, and experiment. It saves time later and helps understand new tools efficiently.
 
-## System info
+# System info
 
 **Common System Commands**
 
@@ -227,3 +226,85 @@ Always explore commands, check man pages, and experiment. It saves time later an
     - `-n` → hostname
     - `-v` → kernel version
     - `-m` → machine hardware
+
+# Navigation
+
+**pwd**  
+Prints the current working directory.
+
+**ls**  
+Lists files and directories in the current directory.
+
+**ls -l**  
+Shows detailed information: permissions, links, owner, group, size, date.
+
+**ls -a**  
+Shows hidden files (files starting with `.`).
+
+**ls -la**  
+Combines detailed view and hidden files.
+
+**`ls -l` columns**
+
+- `drwxr-xr-x` → file type and permission.
+- `2` → number of hard links
+- `user` → file owner
+- `group` → group owner
+- `4096` → size
+- `date` → date and time
+- `name` → file or directory name
+
+**Hidden files**  
+Files starting with `.` (e.g. `.bashrc`, `.bash_history`).
+
+**cd -**  
+Returns to the previous directory.
+
+**Ctrl + R**  
+Search through command history.
+
+# Files and Directories
+
+**touch <name_file>**
+creates a file
+
+**mkdir <name_directory>**
+creates a directory
+
+**mkdir -p <name_directory/name/name/...>**
+creates parent directories
+
+**tree .**
+look structure of direcotires
+
+**mv <file/directory> <destination_file/directory>**
+to move to another directory or to rename a file `mv info.txt information.txt`
+
+**cp <file/directory> <destination_file/directory>**
+copy a file or directory
+
+**nano**
+`^` --> Ctrl
+
+**cat <file_name>**
+show file content
+One such important file is the `/etc/passwd` file. This file contains essential information about the users on the system, such as their usernames, user IDs (`UIDs`), group IDs (`GIDs`), and home directories.
+`/etc/shadow` stores the password hashes
+
+**vim**
+like nano but harder XD
+![[Pasted image 20260131194137.png]]
+
+**vimtutor**
+For learning vim
+
+**which <name_file/programm/directory>**
+return the path if existing
+
+**find <location_file/directory> <options_>**
+![[Pasted image 20260131194528.png]]
+
+**locate <file/directory>**
+like find but faster, searches in a local db
+![[Pasted image 20260131194846.png]]
+
