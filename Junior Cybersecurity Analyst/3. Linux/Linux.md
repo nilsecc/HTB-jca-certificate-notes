@@ -63,9 +63,6 @@ Top-level directory containing everything required to boot and run the system.
 
 # Shell
 
-**Introduction to Shell**  
-Learning the Linux shell is essential because many servers run Linux, especially web servers. The shell allows full control of the operating system and is more powerful than using only the GUI.
-
 **Terminal / Shell / Console**  
 A terminal (or shell, command line) is a text-based interface between the user and the kernel. It allows executing commands to control the system. The term console refers to a text-mode screen, not a window.
 
@@ -308,3 +305,43 @@ return the path if existing
 like find but faster, searches in a local db
 ![[Pasted image 20260131194846.png]]
 
+
+# File Descriptors & Redirection 
+## File Descriptors (FD)  
+A **file descriptor** is a number used by the OS to manage I/O (files, sockets, etc.).  
+  
+Default in Linux:  
+- `0` → **STDIN** (input)  
+- `1` → **STDOUT** (normal output)  
+- `2` → **STDERR** (error output)  
+## Basic Redirections  
+  
+- `>` → redirect STDOUT (overwrite)  
+- `>>` → append STDOUT  
+- `2>` → redirect STDERR  
+- `<` → redirect STDIN  
+- `2>/dev/null` → discard errors  
+  
+Example:  
+```bash  
+find /etc -name shadow 2>errors.txt 1>output.txt
+```
+## Here-Document (Input Stream)
+
+```
+cat << EOF > file.txt  
+text here  
+EOF
+```
+Sends manual input (STDIN) into a file.
+## Pipes (`|`)
+
+Send STDOUT of one command to another:
+
+```
+find /etc -name "*.conf" 2>/dev/null | grep systemd | wc -l
+```
+
+
+
+# Filter Contents
