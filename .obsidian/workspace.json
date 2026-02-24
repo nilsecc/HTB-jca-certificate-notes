@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Cybersecurity Analyst/3. Linux/Linux.md",
+                "file": "Junior Cybersecurity Analyst/3. Linux/8. Filter Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "8. Filter Contents"
             }
           }
         ]
@@ -183,16 +183,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "1a10eff0f08b66d6",
+  "active": "571038f126d559dd",
   "lastOpenFiles": [
-    "images/Pasted image 20260131194846.png",
-    "images/Pasted image 20260131194137.png",
     "Junior Cybersecurity Analyst/3. Linux/Linux.md",
-    "images/Pasted image 20260131194528.png",
-    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/Gestor archivos - PACMAN.md",
-    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/Como va Linux.md",
+    "Junior Cybersecurity Analyst/3. Linux/8. Filter Contents.md",
+    "Junior Cybersecurity Analyst/3. Linux/7. Files Descriptors & Redirections.md",
+    "Junior Cybersecurity Analyst/3. Linux/6. Files and Directories.md",
+    "Junior Cybersecurity Analyst/3. Linux/5. Navigation.md",
+    "Junior Cybersecurity Analyst/3. Linux/4. System Info.md",
+    "Junior Cybersecurity Analyst/3. Linux/3. Help commands.md",
+    "Junior Cybersecurity Analyst/3. Linux/2. Shell.md",
+    "Junior Cybersecurity Analyst/3. Linux/1. Linux.md",
+    "Junior Cybersecurity Analyst/3. Linux/1. Introduction",
     "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/2.1 Post Instalación.md",
     "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/1.3 Instalación Arch.md",
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/1.2 USB Booteable de Arch.md",
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/1.1 Configurar la partición.md",
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/Como va Linux.md",
+    "images/Pasted image 20260131194846.png",
+    "images/Pasted image 20260131194137.png",
+    "images/Pasted image 20260131194528.png",
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/Gestor archivos - PACMAN.md",
     "images/Pasted image 20260128173404.png",
     "images/Pasted image 20260128175448.png",
     "Junior Cybersecurity Analyst/2. Network/Connection Establishment.md",
@@ -208,8 +219,6 @@
     "Junior Cybersecurity Analyst/Network/Protocols & Terminology",
     "Junior Cybersecurity Analyst/Network/Adressing",
     "Junior Cybersecurity Analyst/Network/Models",
-    "Junior Cybersecurity Analyst/Network/Structure",
-    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/1.2 USB Booteable de Arch.md",
-    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/1.1 Configurar la partición.md"
+    "Junior Cybersecurity Analyst/Network/Structure"
   ]
 }
