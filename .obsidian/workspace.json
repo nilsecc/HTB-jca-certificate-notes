@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Cybersecurity Analyst/3. Linux/9. Regex.md",
+                "file": "Junior Cybersecurity Analyst/3. Linux/System Managment/11. User Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Regex"
+              "title": "11. User Management"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "1a10eff0f08b66d6",
   "lastOpenFiles": [
-    "Junior Cybersecurity Analyst/3. Linux/8. Filter Contents.md",
+    "Junior Cybersecurity Analyst/3. Linux/System Managment/12. Package Management.md",
+    "Junior Cybersecurity Analyst/3. Linux/10. Permission Management.md",
+    "Junior Cybersecurity Analyst/3. Linux/System Managment/11. User Management.md",
+    "Junior Cybersecurity Analyst/3. Linux/System Managment",
+    "Junior Cybersecurity Analyst/3. Linux/11..md",
     "Junior Cybersecurity Analyst/3. Linux/9. Regex.md",
+    "Junior Cybersecurity Analyst/3. Linux/8. Filter Contents.md",
     "Untitled.md",
     "Junior Cybersecurity Analyst/3. Linux/2. Shell.md",
     "Junior Cybersecurity Analyst/3. Linux/Linux.md",
